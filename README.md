@@ -78,3 +78,6 @@ ExecutorService executorService3=Executors.newSingleThreadExecutor();
 
 //当队列换成了无界队列后,只初始化了一个线程,只有一个线程执行任务,maxsize这个参数失效
 ```
+
+转自：
+[ThreadPoolExecutor Demo示例](https://www.jianshu.com/p/94c8b2000ce4)
